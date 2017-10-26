@@ -15,7 +15,7 @@ public class GildedRose {
     public void tick() {
         if(!StringUtils.equals(name, "Aged Brie") && !StringUtils.equals(name, "Backstage passes to a TAFKAL80ETC concert")) {
             if(quality > 0) {
-                if(!StringUtils.equals(name, "Suluras, Hand of Ragnaros")) {
+                if(!StringUtils.equals(name, "Sulfuras, Hand of Ragnaros")) {
                     quality -= 1;
                 }
             }
