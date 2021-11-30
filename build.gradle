@@ -26,7 +26,8 @@ dependencies {
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
 
-    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.6'
+    implementation 'org.apache.commons:commons-lang3:3.12.0'
+
 
 }
 
