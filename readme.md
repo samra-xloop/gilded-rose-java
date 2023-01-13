@@ -21,4 +21,4 @@ At 10:28 in the video, Ms. Metz talks about how to create "a seam". Follow this 
 
 - [Dynamically instantiating a class with a non-default constructor](http://tutorials.jenkov.com/java-reflection/constructors.html)
 
-- [Original Description of Gilded Rose](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/)
+- [Original Descripton of Gilded Rose](https://codingdojo.org/kata/gilded-rose/)
